@@ -1,0 +1,9 @@
+# backup automatici di Jupyter
+.ipynb_checkpoints/
+
+# file di sistema del Mac
+.DS_Store
+
+# chiavi e segreti
+api_key.txt
+*.key
