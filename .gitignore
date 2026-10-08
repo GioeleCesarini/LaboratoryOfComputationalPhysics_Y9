@@ -4,6 +4,9 @@
 # file di sistema del Mac
 .DS_Store
 
+# File istruzioni personali
+istruzioni.txt
+
 # chiavi e segreti
 api_key.txt
 *.key
