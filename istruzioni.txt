@@ -1,0 +1,5 @@
+*) Ogni volta che vuoi salvare il lavoro su GitHub, ripeti questi tre comandi:
+
+	git add "nomefile.estensione"
+	git commit -m "descrizione modifiche"
+	git push origin LabCompA                     => (è il nome della mia branch)
